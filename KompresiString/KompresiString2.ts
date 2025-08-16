@@ -14,8 +14,6 @@
  * "abcdef"
  * "ha"
  * 
- * 1. Buatlah program menggunakan Typescript
- * 
  */ 
 
 // 1
